@@ -139,7 +139,7 @@ function StatCard({ icon, title, value, status, bg }) {
     >
       {/* Icon */}
       <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center">
-        <img src={icon} className="w-10 h-10" />
+        <img src={icon} alt={title} className="w-10 h-10" />
       </div>
 
       {/* Text */}

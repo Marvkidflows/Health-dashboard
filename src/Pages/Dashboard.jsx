@@ -1,6 +1,6 @@
 import Navbar from "../Component/Navbar.jsx"
 import Sidebar from "../Component/Sidebar/Sidebar"
-import DiagnosisHistory from "../component/Diagnosis/DiagnosisHistory"
+import DiagnosisHistory from "../Component/Diagnosis/DiagnosisHistory"
 import PatientProfile from "../Component/Profile/PatientProfile.jsx"
 export default function Dashboard() {
   return (
