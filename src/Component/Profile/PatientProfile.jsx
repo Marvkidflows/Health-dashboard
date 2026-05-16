@@ -1,8 +1,8 @@
-import PhoneIcon from "../../assets/phoneIcon@2x.png";
+import PhoneIcon from "../../assets/PhoneIcon@2x.png";
 import Calendar from "../../assets/calendar.svg";
 import JessicaImage from "../../assets/Layer 2@2x.png";
 import BirthIcon from "../../assets/BirthIcon.png";
-import FemaleIcon from "../../assets/femaleIcon@2x.png";
+import FemaleIcon from "../../assets/FemaleIcon@2x.png";
 import Insurance from "../../assets/InsuranceIcon@2x.png";
 import DownloadIcon from "../../assets/download@2x.png";
 
